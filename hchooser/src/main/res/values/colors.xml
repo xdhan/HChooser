@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c636e</color>
+    <color name="colorPrimaryDark">#393e46</color>
+    <color name="colorAccent">#f8b500</color>
+
+    <color name="isccn_primary">#2196F3</color>
+    <color name="isccn_primaryDark">#2196F3</color>
+    <color name="isccn_accent">#2196F3</color>
+</resources>

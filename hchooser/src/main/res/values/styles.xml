@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // ==================================== Theme HChooser ========================================
+    <style name="HChooser.Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+    // ==================================== Theme Isccn ========================================
+    <style name="HChooser.Isccn" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/isccn_primary</item>
+        <item name="colorPrimaryDark">@color/isccn_primaryDark</item>
+        <item name="colorAccent">@color/isccn_accent</item>
+        <item name="toolbarStyle">@style/Toolbar.Isccn</item>
+    </style>
+
+    <style name="Toolbar.Isccn" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    </style>
+</resources>
